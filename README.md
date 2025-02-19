@@ -10,7 +10,7 @@ The **QR Code-Based Attendance System** is a smart and efficient way to manage s
 ✅ **Student Registration**: Users can add student details (ID & Name) to the system.  
 ✅ **QR Code Generation**: The system generates and displays a **unique QR code** for each student.  
 ✅ **QR Code Scanning**: Uses a **webcam** to scan student QR codes and mark attendance automatically.  
-✅ **Attendance Logging**: Stores attendance records in an **Excel file (attendance.xlsx)** with timestamps.  
+✅ **Attendance Logging**: Stores attendance records in an **SQL FILE (Attendance.db)** with timestamps.  
 ✅ **User-Friendly GUI**: A **beautiful Tkinter-based interface** with a **background image, translucent form, and watermark**.  
 ✅ **Watermark Signature**: Displays **"SHARAD PAWAR SAINI"** at the bottom for authenticity.  
 
